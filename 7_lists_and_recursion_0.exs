@@ -1,4 +1,4 @@
-defmodule Math do
+defmodule MyList do
 
   def sum([]), do: 0
 
